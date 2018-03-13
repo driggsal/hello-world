@@ -1,2 +1,3 @@
 # hello-world
-Training to use GitHub
+
+Alan's sample readme.
